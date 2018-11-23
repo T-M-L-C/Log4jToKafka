@@ -10,7 +10,6 @@
 # init app
 BIN_DIR="$(cd `dirname $0`; pwd)"
 APP_DIR="`dirname $BIN_DIR`"
-#PROFILE_NAME="@maven.profile.name@"
 APP_JAR_FILE="@maven.project.name@-@maven.project.version@.jar"
 JAVA_BIN="@maven.profile.javabin@"
 JVM_OPTS="@maven.profile.javaopts@"
