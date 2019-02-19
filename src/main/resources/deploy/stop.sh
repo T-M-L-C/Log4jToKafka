@@ -4,7 +4,7 @@
 #
 # @author liuchao
 # @Email 245715460@qq.com
-# @ERP liuchao02
+# @ERP liuchao
 ############################################################
 
 # init app

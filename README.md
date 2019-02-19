@@ -13,6 +13,9 @@ bin/zookeeper-server-start.sh config/zookeeper.properties &
 
 bin/kafka-server-start.sh config/server.properties &
 
+kafka查看某个topic的信息
+bin/kafka-topics.sh --zookeeper 127.0.0.1:2181 --topic lx_test_topic --describe
+
 maven提供的资源过滤文档：
 https://maven.apache.org/pom.html#Properties
 
