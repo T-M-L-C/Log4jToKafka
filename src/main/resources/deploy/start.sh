@@ -3,8 +3,8 @@
 # Start application
 #
 # @author liuchao
-# @Email liuchao@360.net
-# @ERP liuchao02
+# @Email 245715460@qq.com
+# @ERP liuchao
 ############################################################
 
 # init app
